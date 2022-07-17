@@ -1,4 +1,4 @@
-# Unit 10: Forecasting Net Prophet
+# Forecasting Net Prophet
 
 ![Decorative image.](Images/unit-10-readme-photo.png)
 
@@ -62,7 +62,7 @@ With your workspace configured, you can begin the homework. The instructions are
 
 - Step 4: Create a time series model by using Prophet.
 
-- Step 5 (optional): Forecast the revenue by using time series models.
+- Step 5: Forecast the revenue by using time series models.
 
 The following subsections detail these steps.
 
@@ -122,7 +122,7 @@ Now, you need to produce a time series model that analyzes and forecasts pattern
 
    - What's the lowest point for search traffic in the calendar year?
 
-### Step 5 (Optional): Forecast the Revenue by Using Time Series Models
+### Step 5: Forecast the Revenue by Using Time Series Models
 
 A few weeks after your initial analysis, the finance group follows up to find out if you can help them solve a different problem. Your fame as a growth analyst in the company continues to grow!
 
@@ -135,16 +135,6 @@ To do so, complete the following steps:
 2. Interpret the model output to identify any seasonal patterns in the company revenue. For example, what are the peak revenue days? (Mondays? Fridays? Something else?)
 
 3. Produce a sales forecast for the finance group. Give them a number for the expected total sales in the next quarter. Include the best- and worst-case scenarios to help them make better plans.
-
----
-
-## Submission
-
-- Create Jupyter notebooks for the analysis, and host them on GitHub.
-
-- Include a Markdown file that summarizes your models and findings, and include this report in your GitHub repo.
-
-- Submit the link to your GitHub project to Bootcamp Spot.
 
 ---
 
